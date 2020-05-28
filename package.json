@@ -1,5 +1,5 @@
 {
-  "name": "react-howler",
+  "name": "@qazsero/react-howler",
   "version": "3.8.0",
   "description": "A React.js wrapper for howler.js (audio player)",
   "main": "lib/index.js",
@@ -25,23 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thangngoc89/react-howler.git"
+    "url": "git+https://github.com/qazsero/react-howler.git"
   },
-  "keywords": [
-    "react-component",
-    "react.js",
-    "redux",
-    "audio",
-    "player",
-    "howler",
-    "howler.js"
-  ],
   "author": "Khoa Nguyen <hi@khoanguyen.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thangngoc89/react-howler/issues"
+    "url": "https://github.com/qazsero/react-howler/issues"
   },
-  "homepage": "https://github.com/thangngoc89/react-howler#readme",
+  "homepage": "https://github.com/qazsero/react-howler#readme",
   "dependencies": {
     "howler": "^2.2.0",
     "prop-types": "^15.5.6"
@@ -62,5 +53,10 @@
     "ignore": [
       "standard"
     ]
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
   }
 }
